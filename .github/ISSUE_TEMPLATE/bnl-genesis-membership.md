@@ -23,10 +23,8 @@ See: https://github.com/BNL-Genesis/support/blob/main/docs/bnl-github-enterprise
 
 ### Additional Information
 
-If not part of a particular project, briefly describe why access to the
-BNL-Genesis organization is needed.
+If not part of a particular project, briefly describe why access to the BNL-Genesis organization is needed.
 
 ### Confirmation
 
-- [ ] I have not included private, proprietary, sensitive, export-controlled,
-      or otherwise non-public information in this public Issue.
+- [ ] I have not included private, proprietary, sensitive, export-controlled, or otherwise non-public information in this public Issue.

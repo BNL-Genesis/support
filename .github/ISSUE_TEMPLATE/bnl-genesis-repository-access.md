@@ -33,5 +33,4 @@ Describe the requested change if it is not covered by the fields above.
 
 ### Confirmation
 
-- [ ] I have not included private, proprietary, sensitive, export-controlled,
-      or otherwise non-public information in this public Issue.
+- [ ] I have not included private, proprietary, sensitive, export-controlled, or otherwise non-public information in this public Issue.
