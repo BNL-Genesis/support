@@ -67,7 +67,7 @@ Once you have access, follow the contribution workflow documented in
 
 ### Option B — Submit Content to the BNL Genesis Mission Team
 
-You do **not** need GitHub access to have a project represented in the Portfolio. Download and fill in the [project content template](https://github.com/BNL-Genesis/bnl-genesis.github.io/blob/main/docs/portfolio/_project_template.md), then send it to the [BNL Genesis Mission support team](TODO).
+You do **not** need GitHub access to have a project represented in the Portfolio. Download and fill in the [project content template](https://github.com/BNL-Genesis/bnl-genesis.github.io/blob/main/docs/portfolio/_project_template.md), then send it to [@mikhail](https://www.bnl.gov/staff/mtitov).
 
 A member of the team will prepare the corresponding change in `portfolio-docs`
 on your behalf. It then goes through the same review and approval process as

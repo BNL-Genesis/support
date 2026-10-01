@@ -7,8 +7,8 @@ Support and onboarding for the [`BNL-Genesis`](https://github.com/BNL-Genesis) G
 > This repository is public. **Do not include private, proprietary,
 > sensitive, export-controlled, or otherwise non-public information in
 > Issues, Discussions, attachments, or any other content submitted here.**
-> If your request requires sharing such information, contact the BNL Genesis
-> Mission support team through the [private channel](TODO) instead.
+> If your request requires sharing such information, contact
+> [@mikhail](https://www.bnl.gov/staff/mtitov) directly instead.
 >
 > When in doubt, do not post the information publicly.
 
