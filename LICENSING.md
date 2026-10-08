@@ -13,7 +13,7 @@ This includes:
 
 When reusing licensed material, attribution should identify:
 
-> Brookhaven Science Associates, LLC / Genesis Mission at Brookhaven National Laboratory
+> Brookhaven Science Associates, LLC, Brookhaven National Laboratory
 
 and, where practical, link to the source repository and indicate whether
 changes were made.
