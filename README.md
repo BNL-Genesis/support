@@ -1,9 +1,11 @@
 # BNL Genesis Mission — Support
 
+[![Visibility: Public](https://img.shields.io/badge/Visibility-Public-blue?logo=github)](#warning)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-orange.svg)](LICENSE)
 
 Support and onboarding for the [`BNL-Genesis`](https://github.com/BNL-Genesis) GitHub organization — access, repositories, and contributions.
 
+<a name="warning"></a>
 > [!WARNING]
 >
 > This repository is public. **Do not include private, proprietary,
