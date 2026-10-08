@@ -7,7 +7,7 @@ licensed under the **Creative Commons Attribution 4.0 International License**
 
 This includes:
 
-- the README and the guides in `docs/`;
+- the README and the guides in `guides/`;
 - the GitHub Issue templates in `.github/ISSUE_TEMPLATE/`; and
 - other BSA-authored non-software textual materials intended for public reuse.
 

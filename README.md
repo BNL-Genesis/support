@@ -18,14 +18,14 @@ Support and onboarding for the [`BNL-Genesis`](https://github.com/BNL-Genesis) G
 
 ## Guides
 
-- [BNL-Genesis GitHub Workspace](docs/bnl-genesis-workspace.md)
+- [BNL-Genesis GitHub Workspace](guides/bnl-genesis-workspace.md)
   — request membership in the `BNL-Genesis` organization, and request or
   change access to its repositories.
-  - [Obtaining BNL GitHub Enterprise Access](docs/bnl-github-enterprise-access.md)
+  - [Obtaining BNL GitHub Enterprise Access](guides/bnl-github-enterprise-access.md)
     — request the BNL GitHub Enterprise license required for organization
     membership.
 
-- [Contributing to the BNL Genesis Mission Portfolio](docs/portfolio-contribution.md)
+- [Contributing to the BNL Genesis Mission Portfolio](guides/portfolio-contribution.md)
   — submit a new project or update an existing one in the Portfolio, with or
   without direct access to the `BNL-Genesis` organization.
 

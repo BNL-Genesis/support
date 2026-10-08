@@ -7,7 +7,7 @@ labels: access-request
 
 <!--
 NOTE: A BNL GitHub Enterprise license is required before membership can be granted.
-See: https://github.com/BNL-Genesis/support/blob/main/docs/bnl-github-enterprise-access.md
+See: https://github.com/BNL-Genesis/support/blob/main/guides/bnl-github-enterprise-access.md
 (To request membership for multiple users, repeat the fields below for each user.)
 -->
 
